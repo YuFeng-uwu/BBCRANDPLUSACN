@@ -16,7 +16,7 @@
 
 ### BBCR（免费）
 
-前往 [Releases](https://github.com/你的用户名/你的仓库/releases) 页面，下载最新版本的汉化 APK。
+前往 [Releases](https://github.com/YuFeng-uwu/BBCRANDPLUSACN/releases) 页面，下载最新版本的汉化 APK。
 
 > **下载速度慢？**  
 > GitHub 服务器在国内访问可能不稳定。推荐使用免费的多线程下载器加速：
